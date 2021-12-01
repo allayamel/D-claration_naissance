@@ -14,8 +14,13 @@ Pour la connection de notre code python à MySQL,on a installé mysql-connector 
 ensuite on a crée:
 
 -la base de données:DeclarationNaissance; 
+
 -les tables:Enfant et Fonctionnaire; 
+
 -insertion de données dans les tables; 
+
 -mise à jour de données dans la base de données; 
+
 -interrogation des données dans la base de données.
+
 Le travail a duré une semaine en gros.
