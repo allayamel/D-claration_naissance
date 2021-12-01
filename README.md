@@ -1,10 +1,14 @@
 # D-claration_naissance
 Travailler sur le projet de mise en place d'une application de gestion de naissance
+
 nom de repository:Gestion-naissance
 
 Les outils utilisés pour la réalisation du travail: 
+
 -start UML pour la conception de deux diagrammes; 
+
 -MySQL pour la base de données; 
+
 Le code en python est ecrit sous l'environnement de developpement PyCharm
 
 Le projet a été debuté par la conception du diagramme de cas d'utilisation parmi le quel on a identifié les acteurs et les cas d'utilisation,
