@@ -5,7 +5,7 @@ nom de repository:Gestion-naissance
 
 Les outils utilisés pour la réalisation du travail : 
 
--start UML pour la conception de deux diagrammes; 
+-StartUML pour la conception de deux diagrammes; 
 
 -MySQL pour la base de données; 
 
