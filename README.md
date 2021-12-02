@@ -1,9 +1,9 @@
 # D-claration_naissance
-Travailler sur le projet de mise en place d'une application de gestion de naissance
+Travailler  sur le projet de mise en place d'une application de gestion de naissance
 
 nom de repository:Gestion-naissance
 
-Les outils utilisés pour la réalisation du travail: 
+Les outils utilisés pour la réalisation du travail : 
 
 -start UML pour la conception de deux diagrammes; 
 
